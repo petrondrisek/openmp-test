@@ -1,1 +1,1 @@
-AddSimpleModel(-1, 415, 399, "cheetah.dff", "cheetah.txd");
+AddSimpleModel(-1, 415, -1001, "cheetah.dff", "cheetah.txd");
